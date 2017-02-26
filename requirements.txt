@@ -1,0 +1,2 @@
+ibmiotf == 0.2.6 
+RPi.GPIO == 0.6.3

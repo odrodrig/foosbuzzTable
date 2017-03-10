@@ -1,7 +1,7 @@
 # foosbuzzTable
 The python code for the Raspberry Pi that will be connected to the foosball table.
 
-<b>These are temporary instructions. More complete instructions will be added later.
+<b>These are temporary instructions. More complete instructions will be added later.</b>
 
 This is the raspberry pi code for the IoT Foosball application.
 

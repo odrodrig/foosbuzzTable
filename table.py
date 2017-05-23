@@ -31,13 +31,13 @@ def sensor_callback(gpio_id):
 	data=1
 	print "goal Team 1"
 	table.publishEvent("status", "json", data)
-	time.sleep(1)
+	time.sleep(2)
 
 def sensor2_callback(gpio_id):
 	data=2
 	print "goal Team 2"
 	table.publishEvent("status", "json", data)
-	time.sleep(1)
+	time.sleep(2)
 
 def button_callback(gpio_id):
 	data=0
